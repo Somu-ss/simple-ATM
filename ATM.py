@@ -8,7 +8,7 @@ b=20000
 def home():
     print('\r')
     print("-"*80)
-    print("                            WELCOME TO 'ATM'   ")
+    print(" WELCOME TO 'ATM'   ")
     print("-"*80)
     print('\r')
     print(" PRESS 1 TO CHECK BALANCE ->")
